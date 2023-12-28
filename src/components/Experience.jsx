@@ -5,7 +5,6 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
 import nodejs from "../assets/node.png"
 
 const Experience = () => {
@@ -36,18 +35,12 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
-    {
-      id: 6,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
     },
     {
-      id: 7,
+      id: 6,
       src: nodejs,
       title: "NodeJs",
       style: "shadow-green-500",
