@@ -15,7 +15,7 @@ const Home = () => {
                         I'm a Full Stack Developer
                     </h2>
                     <p className="text-yellow-100 py-4 max-w-md">
-                    Hello, I'm Nikhil Singh, a full stack web developer. I specialize in React.js and Node.js, creating compelling frontends and strong backends. With a knack for competitive programming, I excel in data structures and algorithms. Eager to collaborate on innovative web projects, let's build something extraordinary!
+                    Hello, I'm Nikhil Singh, a full stack web developer. I specialize in React.js and Node.js, creating compelling frontends and strong backends. With a knack for competitive programming, I excel in data structures and algorithms.
                     </p>
 
                     <div>
